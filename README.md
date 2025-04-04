@@ -58,9 +58,6 @@ The **AI Travel Planner** is a Streamlit-based web application that allows users
 3. Click "Generate Itinerary".
 4. View and save the itinerary.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributors
 Developed by [Venu-16](https://github.com/Venu-16).
 
